@@ -1,0 +1,9 @@
+{"Sound_check_text":"Vamos a prepararnos para una actividad de escuchar.\nVas a escuchar algunos sonidos.\n Después de escuchar cada uno, puede decidir si estaba demasiado alto, demasiado bajo o si estaba bien.\nCuando todo suene bien, estaremos listos para comenzar nuestra actividad.\n\nPress SPACE to start audio",
+    "Audio_adjust_text": "If the sound was too loud, press the 'd' key.\n\nIf the sound was too quiet, press the 'u' key.\n\nIf the volume level was ok, press the SPACE BAR.",
+    "Intro_text": "En esta tarea, su trabajo es escuchar con atención el ruido especial de las llaves.\nAsí es como suena el ruido especial de las llaves.\nPresiona el botón cuando lo escuches.\n\nPress SPACE to continue",
+"Correct_text": "¡Buen trabajo!\nCada vez que escuches el ruido de las llaves, presiona el botón.\nTambién vas a escuchar otros sonidos.\nAquí hay algunos otros sonidos que puedes escuchar.\nNO presiones el botón para estos sonidos.\n\nPress SPACE to continue",
+"Practice_text": "Ahora vamos a practicar.\nVas a escuchar sonidos de carros.\nPresiona el botón CADA VEZ que escuches el sonido de las llaves.\nNo presiones el botón para los otros sonidos.\n\nPress SPACE to continue",
+"Task_text":"Buen trabajo en la práctica.\nAhora estás listo/a para la actividad.\nVa a parecer un poco larga. Sigue dando tu mejor esfuerzo.\n¡Ve si puedes captar TODOS los sonidos de las llaves!\n\nPress SPACE", 
+"Exit_text": "¡Muy buen trabajo! ¡Terminaste!\n\nPress SPACE to Exit!",
+"Feedback" : "¡Buen trabajo! Sacaste"
+}

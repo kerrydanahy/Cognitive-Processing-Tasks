@@ -1,0 +1,7 @@
+{"Intro_text": "Your job on this task is to catch all the boxes that appear in a special spot on the screen.\n\nI will show you a box in the special spot.\nPush the button when you see it.\n\nPress SPACE to continue",
+    "Correct_text": "Good job!\nEvery time you see that box, press the button.\n\nIf you see a box somewhere else, it's not a special box.\nHere are some other places you might see boxes. Do not press the button for these boxes.\n\nPress SPACE to continue",
+    "Practice_text": "Now let's practice.\n\nYou will see boxes on the screen.\nPush the button EVERY TIME the box is in the special spot.\nDo not push the button for other boxes.\n\nPress SPACE to continue",
+    "Task_text": "Great job on the practice.\nNow you are ready For the task.\n\nIt will get long. Keep trying your best.\nSee if you can catch ALL the special boxes!\n\nPress SPACE to continue",
+    "Exit_text": "Great job! You finished!\n\nPress SPACE to Exit!",
+    "Feedback": "Congratulations you got"
+}

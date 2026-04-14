@@ -1,0 +1,7 @@
+{"Intro_text": "Tu trabajo en esta actividad es atrapar todas las cajas que aparecen en un lugar especial de la pantalla.\nTe mostraré una caja en el lugar especial.\nPresiona el botón cuando lo veas.\n\nPress SPACE to continue",
+"Correct_text": "¡Buen trabajo!\nCada vez que veas esa caja, presiona el botón.\nSi ves una caja en otro lugar, no es una caja especial.\nAquí hay algunos otros lugares donde puedes ver las caja.\nNO presiones el botón para estas cajas.\n\nPress SPACE to continue", 
+"Practice_text": "Ahora vamos a practicar.\nVas a ver cajas en la pantalla.\nPresiona el botón CADA VEZ que la cajita esté en el lugar especial.\nNo presiones el botón para otras cajas.\n\nPress SPACE to continue", 
+"Task_text":"Buen trabajo en la práctica.\nAhora estás listo/a para la actividad.\nVa a parecer un poco larga. Sigue dando tu mejor esfuerzo.\n¡Mira si puedes atrapar TODAS las cajas especiales!\n\nPress SPACE to continue", 
+"Exit_text": "¡Muy buen trabajo! ¡Terminaste!\n\nPress SPACE to Exit!",
+"Feedback" : "¡Buen trabajo! Sacaste"
+}

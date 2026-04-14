@@ -1,0 +1,11 @@
+{"Intro_text": "On this task, you will see butterflies in different places on the screen. \nYour job is to decide if the butterflies in group 1 and group 2 show up in the the SAME places or in DIFFERENT places. \n\nHere is an example.\nThere will be two butterflies in group 1 and two butterflies in group 2. \nPay attention to where you see them.\nThen I will ask if the places were the SAME Or DIFFERENT.\n\nPress SPACE to continue",
+    "Feedback":"Were the butterflies in group 1 in the SAME places as the ones in group 2? \n\n(Examiner: give feedback)\n\nWhen they are the SAME press the white button.\n\nWhen they are DIFFERENT press the red button.\n\nPress SPACE to continue",
+"Demo":"Let's try another one. Ready?\n\nPress SPACE to continue",
+    "Correct_text": "Good job!",
+    "incorrect": "Ooops!\n\nThat one wasn't right",
+    "Practice_text": "OK, now we will practice some more.\nPush the white button for SAME and the red button for DIFFERENT.\n\nPress SPACE to continue",
+    "Task_text": "Now we are done practicing and we will do the task\n\nPress SPACE to continue or R to repeat practice",
+    "lvl2":"You're doing a great job!\nNow there will be 3 butterflies in each group.\n\nPress SPACE to continue",
+    "lvl3":"You're doing a great job!\nNow there will be 4 butterflies in each group.\n\nPress SPACE to continue",
+    "lvl4":"You're doing a great job!\nNow there will be 5 butterflies in each group.\n\nPress SPACE to continue",
+    "Exit_text": "Great job! You finished this task!\n\nPress SPACE to Exit!"}

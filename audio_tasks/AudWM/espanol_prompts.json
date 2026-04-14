@@ -1,0 +1,13 @@
+{"Sound_check_text":"Vamos a prepararnos para una actividad de escuchar.Vas a escuchar algunos pitidos.Después de escucharlos, podemos hacerlos más fuertes o más bajos.\n\nPress SPACE to start audio",
+    "Audio_adjust_text": "If the sound was too loud, press the 'd' key.\n\nIf the sound was too quiet, press the 'u' key.\n\nIf the volume level was ok, press the SPACE BAR.",
+    "Intro_text": "En esta actividad, vas a escuchar pitidos.\nPrimero vas a escuchar los pitidos en el grupo 1 y luego vas a escuchar los pitidos en el grupo 2. Tu trabajo es decidir si los pitidos en el grupo 1 y el grupo 2 son los MISMOS o DIFERENTES.\n\nAquí hay un ejemplo.\nHabrá dos pitidos en el grupo 1 y dos pitidos en el grupo 2.\nPresta atención a los pitidos.\nLuego te preguntaré si eran IGUALES o DIFERENTES.\n\nPress SPACE to continue",
+"Feedback":"¿Fueron los pitidos del grupo 1 los MISMOS que los del grupo 2?\n\n(Examiner: Give feedback)\n\nCuando son iguales presiona el botón blanco.\nCuando son DIFERENTES presiona el botón rojo.\n\nPress SPACE to continue",
+"Demo": "Vamos a probar otra. ¿Listo/a?\n\nPress SPACE to continue",
+"Correct_text": "¡Buen trabajo!",
+"incorrect": "Ooops!\n\nEsa no era correcta.",
+"Practice_text": "Bien, ahora vamos a practicar un poco más.\nPresiona el botón blanco para IGUALES y el botón rojo para DIFERENTES.\n\nPress SPACE to continue",
+"Task_text": "Ya terminamos las prácticas y vamos a hacer la actividad.\n\nPress SPACE to continue or R to repeat practice",
+"lvl2":"¡Estás haciendo un gran trabajo!\nAhora van a haber 3 pitidos en cada grupo.\n\nPress SPACE to continue",
+"lvl3":"¡Muy bien!\nAhora van a haber 4 pitidos en cada grupo.\n\nPress SPACE to continue",
+"lvl4":"¡Muy bien!\nAhora van a haber 5 pitidos en cada grupo.\n\nPress SPACE to continue",
+"Exit_text": "¡Muy buen trabajo! Terminaste esta actividad.\n\nPress SPACE to Exit!"}

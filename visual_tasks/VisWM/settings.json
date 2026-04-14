@@ -1,0 +1,8 @@
+{
+"N_per_sequence": [4,16,16,16,16], 
+"Weight_same": [4, 4, 4, 4, 4], 
+"ITI": 1000, 
+"Dur_stim": 600, 
+"ISI": 400, 
+"Key": ["y","u"] 
+}

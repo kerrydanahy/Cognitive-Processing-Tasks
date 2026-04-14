@@ -1,0 +1,13 @@
+{"Sound_check_text":"Bây giờ mình sẽ chuẩn bị cho một bài nghe.Con sẽ nghe một số tiếng bíp.Sau khi con nghe tiếng bíp, con có thể làm tiếng bíp to hơn hay nhỏ hơn.\n\nPress SPACE to start audio",
+    "Audio_adjust_text": "If the sound was too loud, press the 'd' key.\n\nIf the sound was too quiet, press the 'u' key.\n\nIf the volume level was ok, press the SPACE BAR.",
+    "Intro_text": "Trong bài này, con sẽ nghe những tiếng bíp.\nThứ nhất, con sẽ nghe những tiếng bíp trong nhóm 1, và sau đó con sẽ nghe những tiếng bíp trong nhóm 2.Việc của con là quyết định những tiếng bíp trong nhóm 1 giống y như tiếng bíp trong nhóm 2 hay không. Đây là một ví dụ.\n Con sẽ nghe hai tiếng bíp trong nhóm 1 và hai tiếng trong nhóm 2.\n Con để ý nghe những tiếng này nhé.\nSau đó thầy/cô sẽ hỏi con những tiếng trong nhóm 1 giống y nhóm 2 hay không.\n\nPress SPACE to continue",
+"Feedback":"Con thấy những tiếng bíp trong nhóm 1 có giống y nhóm 2 không?\n\n(Examiner: give feedback)\n\nNếu giống y nhau, con sẽ bấm nút trắng.\nNếu khác nhau, con sẽ bấm nút đỏ.\n\nPress SPACE to continue",
+"Demo": "Mình làm thử một lần nữa nhé. Con sẵn sàng chưa?\n\nPress SPACE to continue",
+"Correct_text": "Con làm tốt lắm!",
+"incorrect": "Chưa đúng đâu.",
+"Practice_text": "Mình sẽ làm nữa nhé.\nNếu giống nhau, bấm nút trắng.\nNếu khác nhau, bấm nút đỏ.\n\nPress SPACE to continue",
+"Task_text": "Mình đã làm thử xong rồi. Bây giờ mình làm thật\n\nPress SPACE to continue or R to repeat practice",
+"lvl2":"Con đang làm rất tốt! Bây giờ con sẽ nghe 3 tiếng bíp trong mỗi nhóm.\n\nPress SPACE to continue",
+"lvl3":"Tốt lắm!Bây giờ con sẽ nghe 4 tiếng bíp trong mỗi nhóm.\n\nPress SPACE to continue",
+"lvl4":"Giỏi lắm! Bây giờ con sẽ nghe 5 tiếng bíp trong mỗi nhóm.\n\nPress SPACE to continue",
+"Exit_text": "Tạm biệt\n Con đã làm rất tốt!\nCon làm xong rồi.\n\nPress SPACE to Exit!"}

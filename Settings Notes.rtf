@@ -1,0 +1,102 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\froman\fcharset0 Times-Bold;
+\f3\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Json Settings Notes: These settings can be changed for all tasks and will alter different task parameters. One word of caution:\
+	The formatting of the files with respect to the order of variables is hardcoded into the main task program files. Removing a variable or adding in another (\'93variable\'94 : value ) pair can and will cause errors. Only values of the current listed variables should be changed.\
+\
+
+\f1\b AudProc: 
+\f0\b0 \
+Num_practice- how many practice trials in total\
+\
+Num_high_practice- how many high pitched stimuli, this subtracted from the num_practice yields the number of low pitched targets\
+\
+Num_trials- how many trials in total\
+\
+Num_htrials- sets how many high pitched targets (same convention as practice trials above)\
+\
+ITI- duration of ITI in ms\
+\
+Dur_stim- Stimulus duration (currently unused)\
+\
+Keys- sets the response keys, (high, low)\
+\
+
+\f1\b AudSSA
+\f0\b0 :\
+Practice_Sequence- sets the number of stimulus repetetions (order is [target, distractor, distractor, distractor\'85]\
+\
+Trial_Sequence - same as practice sequence but for response trials, same order as above\
+\
+ITI- sets ITI in MS\
+\
+Dur_stim- currently unused\
+\
+key- sets the response key\
+\
+
+\f1\b AudWM:\
+
+\f0\b0 N_per_sequence- sets the number of trials per sequence length [practice, complexity lvl \'85] Note actual stimulus sequence generation is handled by the gen_stim_sequence() and parse_seq() functions within the code\
+\
+Block_size- sets the pseudo random assignment of same/difference trials, must be 4 or multiple of 4. Interacts with the gen_stim_sequence() function. \
+\
+ITI- sets ITI in ms\
+\
+Dur_stim- unused \
+\
+ISI- sets ISI in ms\
+\
+Key- sets response keys (same, different)\
+\
+
+\f1\b VisProc:\
+
+\f0\b0 Num_practice- how many practice trials\
+\
+Num_r_practice- how many red target trials in practice\
+\
+Num_trials- sets total number of trials\
+\
+Num_r_trials- sets total number of red target trials\
+\
+ITI- sets ITI in ms\
+\
+Dur_Stim- sets display time of the stim in ms\
+\
+Keys- sets response keys (red, blue)\
+\
+
+\f1\b VisSSA:\
+
+\f0\b0 Practice sequence- sets the number of stimulus reputations [target, distractor, distractor, distractor]\
+\
+Trial_Sequence- same as practice sequence but for trials\
+\
+ITI- sets ITI in ms\
+\
+Dur_stim- sets stim duration in ms\
+\
+key- sets the target response key\
+\
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f2\b \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 VisWM:\
+
+\f3\b0 N_per_sequence- sets number of trials to run [practice, complexity 1, complexity 2] These are max trials and interact with the gen_stim_sequence() function within the code\
+\
+Weight_same(Block_size)- sets the same different pseudo random function. Same as the AudWM task\
+\
+ITI- set ITI in ms\
+\
+Dur_stim- sets display length of stim in ms\
+\
+ISI- sets ISI in ms\
+\
+key- sets response key [same, different]}
