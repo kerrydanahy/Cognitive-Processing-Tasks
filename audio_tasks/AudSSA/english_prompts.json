@@ -1,0 +1,9 @@
+{"Sound_check_text":"Let's get ready for a listening task.\n You will hear some sounds.\nAfter you hear them, we can make the sounds louder or quieter.\n\nPress SPACE to start audio",
+    "Audio_adjust_text": "If the sound was too loud, press the 'd' key.\n\nIf the sound was too quiet, press the 'u' key.\n\nIf the volume level was ok, press the SPACE BAR.",
+    "Intro_text": "On this task, your job is to listen carefully for the special key noise.\n\nHere is what the special key noise sounds like.\nPush the button when you hear it.\n\nPress SPACE to continue",
+    "Correct_text": "Good job!\nEvery time you hear the key noise, press the button.\nYou will hear other sounds too. Here are some other sounds you might hear.\nDo not press the button for these sounds\n\nPress SPACE to continue",
+    "Practice_text": "Now let's practice.\nYou will hear car sounds.\nPush the button EVERY TIME you hear the key sound.\nDo not push the button for other sounds.\n\nPress SPACE to continue",
+    "Task_text": "Great job on the practice.\nNow you are ready for the task.\n\nIt will get long. Keep trying your best.\nSee if you can catch ALL the key sounds!\n\nPress SPACE to continue",
+    "Exit_text": "Great job! You finished!\n\nPress SPACE to Exit!",
+    "Feedback": "Congratulations you got"
+}

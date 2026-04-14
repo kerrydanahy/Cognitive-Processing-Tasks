@@ -1,0 +1,13 @@
+{"Sound_check_text":"Let's get ready for a listening task.\nYou will hear some beeps.\nAfter you hear them, we can make the sounds louder or quieter.\n\nPress SPACE to start audio",
+    "Audio_adjust_text": "If the sound was too loud, press the 'd' key.\n\nIf the sound was too quiet, press the 'u' key.\n\nIf the volume level was ok, press the SPACE BAR.",
+    "Intro_text": "On this task, you will hear beeps.\nFirst you will hear the beeps in group 1 and then you will hear the beeps in group 2.Your job is to decide if the beeps in group 1 and group 2 are the SAME or DIFFERENT.\n\nHere is an example.\nThere will be two beeps in group 1 and two beeps in group 2.\nPay attention to the beeps.\nThen I will ask if they were the SAME or DIFFERENT\n\nPress SPACE to continue",
+    "Feedback":"Were the beeps in group 1 the SAME as the ones in group 2? \n\n(Examiner: give feedback)\n\nWhen they are the SAME press the white button.\n\nWhen they are DIFFERENT press the red button.\n\nPress SPACE to continue",
+"Demo":"Let's try another one. Ready?\n\nPress SPACE to continue",
+    "Correct_text": "Good job!",
+    "incorrect": "Ooops!\n\nThat one wasn't right",
+    "Practice_text": "OK, now we will practice some more.\nPush the white button for SAME and the red button for DIFFERENT.\n\nPress SPACE to continue",
+    "Task_text": "Now we are done practicing and we will do the task\n\nPress SPACE to continue or R to repeat practice",
+    "lvl2":"You're doing a great job!\nNow there will be 3 beeps in each group.\n\nPress SPACE to continue",
+    "lvl3":"You're doing a great job!\nNow there will be 4 beeps in each group.\n\nPress SPACE to continue",
+    "lvl4":"You're doing a great job!\nNow there will be 5 beeps in each group.\n\nPress SPACE to continue",
+    "Exit_text": "Great job! You finished this task!\n\nPress SPACE to Exit!"}
